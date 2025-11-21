@@ -1,0 +1,2 @@
+# resilientstudio-go
+Python script
